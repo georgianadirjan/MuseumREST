@@ -1,0 +1,14 @@
+E:\_licenta\workspace\model\src\main\java\model\AbstractNFCObservable.java
+E:\_licenta\workspace\model\src\main\java\model\IBeaconData.java
+E:\_licenta\workspace\model\src\main\java\model\AbstractDataModel.java
+E:\_licenta\workspace\model\src\main\java\model\INFCData.java
+E:\_licenta\workspace\model\src\main\java\model\IUserObservable.java
+E:\_licenta\workspace\model\src\main\java\model\AbstractUserObservableModel.java
+E:\_licenta\workspace\model\src\main\java\model\Artefact.java
+E:\_licenta\workspace\model\src\main\java\model\Event.java
+E:\_licenta\workspace\model\src\main\java\dataacces\UserDAO.java
+E:\_licenta\workspace\model\src\main\java\model\Department.java
+E:\_licenta\workspace\model\src\main\java\model\AbstractBeaconObservable.java
+E:\_licenta\workspace\model\src\main\java\database\SessionHandler.java
+E:\_licenta\workspace\model\src\main\java\model\MuseumInfo.java
+E:\_licenta\workspace\model\src\main\java\model\User.java
